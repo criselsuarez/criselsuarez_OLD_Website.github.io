@@ -9,11 +9,11 @@ google-ID: ''
 
 
 menu:
-- {name: 'About Me',  url: 'facts'}
-- {name: 'CV', url: 'resources'}
-- {name: 'Research',       url: 'sample-posts'}
-- {name: 'Presentations',      url: 'documentation'}
-- {name: 'Outreach',              url: 'about'}
+- {name: 'About Me',  url: 'about-me'}
+- {name: 'CV', url: 'cv'}
+- {name: 'Research',       url: 'research'}
+- {name: 'Presentations',      url: 'presentations'}
+- {name: 'Outreach',              url: 'outreach'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
