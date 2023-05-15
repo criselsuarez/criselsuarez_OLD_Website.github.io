@@ -13,7 +13,7 @@ menu:
 - {name: 'CV', url: 'cv'}
 - {name: 'Research',       url: 'research'}
 - {name: 'Presentations',      url: 'presentations'}
-- {name: 'Outreach',              url: 'outreach'}
+- {name: 'Outreach',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
