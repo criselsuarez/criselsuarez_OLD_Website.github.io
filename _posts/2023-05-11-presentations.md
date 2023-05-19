@@ -4,8 +4,9 @@ title: "Presentations"
 author: "Crisel Suarez"
 categories: presentations
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: cospar_pres.jpg
 ---
+#COMING SOON
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
