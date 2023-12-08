@@ -6,38 +6,45 @@ categories: presentations
 tags: [documentation,sample]
 image: cospar_pres.jpg
 ---
-#COMING SOON
+Main Presenter: 
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+C. Suarez, C.S. Moore, “As Seen from a Small Space Box - Hot, Bright and the Number of Tiny Sun Pieces from Flashes of the Sun,” American Geophysical Union, San Francisco, CA, December 12, 2023.
 
-## Getting Started
+C. Suarez, C.S. Moore, J.W. Reep, L.A. Hayes, H. Warren, “Multiwavelength Analysis of Quasi-Periodic Pulsations for the July 23, 2016 M7.2 Flare,” American Geophysical Union, San Francisco, CA, December 11, 2023.
 
-Getting Started site.github.url PERCENTSYM post_url 2016-10-10-getting-started PERCENTSYM: getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+C. Suarez, A. Chen, X. Xie, J. Velasquez, C.S. Moore, K.K. Reeves, “Plasma Diagnostics of Solar Flares from the Miniature Xray Solar Spectrometer (MinXSS)-1 CubeSat and the Hinode/X-ray Telescope (XRT),” Hinode 16/IRIS 13, Niigata, Japan, Spetember 25-29, 2023.
 
-## Example Content
+C. Suarez, C.S. Moore, “Quasi-Periodic Pulsation (QPP) in Soft X-ray Emission from the July 23, 2016 M5.0 flare,” Waves and Instabilities in the Solar Atmosphere (WISA), Northumbria University, Newcastle Upon Tyne, UK, June 20-23, 2023.
 
-Text and Formatting site.github.url PERCENTSYM post_url 2016-09-09-text-formatting PERCENTSYM
+C. Suarez, C.S. Moore, “Elemental Abundance Analysis of Solar Flares Observed by MinXSS-1 Cubesat,” American Geophysical Union Chapman Meeting, Berlin, Germany, May 28 - June 2, 2023.
 
-## Questions?
+C. Suarez, C.S. Moore, “Elemental Abundance Deviations for Solar Flares Observed by the MinXSS-1 CubeSat Mission,” American Geophysical Union, Chicago, IL, December 13, 2022. 
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+C. Suarez, C.S. Moore, “Solar Flare Elemental Abundance Deviations Obtained by the MinXSS-1 CubeSat Mission,” COmmittee on SPAce Research (COSPAR) Scientific Assembly, Athens, Greece, July 22, 2022. 
 
-## More Jekyll!
+C.Suarez, B. Schwab, A. Kumar, MinXSS Team, “MinXSS Tutorial,” Solar Physics High Energy REsearch (SPHERE) Workshop, Virtual, July 13, 2022.
 
-### Lagrange
+C. Suarez, C.S. Moore, MinXSS Team “Solar Flare Elemental Abundance Deviations Obtained by the MinXSS-1 CubeSat Mission,” Solar Physics High Energy REsearch (SPHERE) Workshop, Virtual, July 12, 2022.
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+C. Suarez, C.S. Moore, MinXSS Team “Solar Flare Plasma Transport Inferred from Elemental Abundance Changes using Soft X-ray Spectra,” Solar Heliospheric and INterplanetary Environment (SHINE) Workshop, Honolulu, HI, June 29, 2022.
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+C. Suarez, C.S. Moore, MinXSS Team, “Science Results from the MinXSS CubeSats,” 235th American Astrophysical Society (AAS), Honolulu, HI, January 6, 2020.
 
-### Portfolio Jekyll Theme
+C. Suarez, C.S. Moore, “Solar Flare Plasma Transport Inferred from Elemental Abundance Changes using soft X-ray Spectra,” 18th RHESSI Workshop University of Minnesota, Minneapolis, MN, June 3rd, 2019.
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+Mentored (*) or Collaborative Projects:
 
-### Jekyll Starter Kit
+Maurer, M., Byrne, L., Falk-Petersen, U., Hamdoun, A., Hénaff, G., Huber, K., Ilas, A., Reisinger, N., Sinjan, J., Suarez, C., Szilágy-Sándor, A., Tarvus, V., Tsindis, M., and Vaganov, M.: CASPER: A Space Mission Concept to Investigate Transient Luminous Events and Terrestrial Gamma Ray Flashes, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-12033, https://doi.org/10.5194/egusphere-egu23-12033, 2023.
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+MVSE Mission Team, Magnetospheric Venus Space Explorers (MVSE), Post-Alpbach Summer School 2022, ESA Academy, Libin, Belgium, ESEC-Galaxia, November 25, 2023.
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+Byrne, L., Falk-Petersen, U., Hamdoun, A., Hénaff, G., Huber, K., Ilas, A., Maurer, M., Reisinger, N., Sinjan, J., Suarez, C., Szilágy-Sándor, A., Tarvus, V., Tsindis, M., and Vaganov, M.: CASPER: A Space Mission Concept to Investigate Transient Luminous Events and Terrestrial Gamma Ray Flashes, Alpbach, Summer School, July 22, 2022.
+
+*C.Libretto, C.Moore, C. Suarez, “Analysis of the Distribution of flare Loop Emission Using Multiple Channels of SDO/AIA Observations,”  Latino Initiative Program Symposium, Smithsonian Astrophysical Observatory (SAO), Cambridge, MA, August 6, 2020.
+
+*C.Goettlicher, C.Moore, C. Suarez, S. Saar, “Solar Flare Soft X-Ray Time Series Spectrum Reconstruction,”  Solar Research Experience for Undergraduates Symposium, Smithsonian Astrophysical Observatory (SAO), Cambridge, MA, August 7, 2019.
+
+R. Hawrami, E. Ariesanti, V. Buliga, C. Suarez, J. Garnett, A. Burger, S. Motakef, “Cs2HfCl6: A Novel Large Diameter Scintillator Crystal,” 19th International Conference on Crystal Growth and Epitaxy (ICCGE-19), Keystone, CO, July 28 - August 2, 2019. 
+
+
